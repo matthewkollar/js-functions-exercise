@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  display: flex;
+  border: 1px solid darkblue;
+  width: 18em;
+  background-color: lightgray;
+}
